@@ -73,3 +73,5 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 ├── reports/
 │   └── dashboard_cdmx.pbix   # Archivo ejecutable de Power BI
 └── README.md                 # Reporte ejecutivo del proyecto
+
+Nota sobre los datos: Debido al tamaño de los archivos .csv, estos no se incluyen en el repositorio. Puedes descargar el dataset original actualizado directamente desde [Inside Airbnb CDMX](https://insideairbnb.com/es/get-the-data/) y guardarlo en la carpeta /data.
