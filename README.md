@@ -46,7 +46,6 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 ---
 
 ## 📈 Dashboard en Power BI
-*(Inserta aquí una captura de pantalla o GIF interactivo de tu Dashboard de Power BI)*
 
 <img width="1469" height="807" alt="image" src="https://github.com/user-attachments/assets/0768793c-2f71-432d-b7eb-eeeba6dc39dd" />
 
