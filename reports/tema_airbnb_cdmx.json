@@ -1,0 +1,151 @@
+{
+  "name": "Airbnb CDMX - Ocupación y Precios",
+  "dataColors": [
+    "#2A6F6F",
+    "#FF5A5F",
+    "#F2C14E",
+    "#5B8C85",
+    "#B85C38",
+    "#7D9D9C",
+    "#E07A5F",
+    "#3D5A5B"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2E2E2E",
+  "tableAccent": "#2A6F6F",
+  "good": "#2A9D8F",
+  "neutral": "#F2C14E",
+  "bad": "#E07A5F",
+  "maximum": "#2A6F6F",
+  "center": "#F2C14E",
+  "minimum": "#F4F4F2",
+  "null": "#C9C9C9",
+  "textClasses": {
+    "callout": {
+      "fontSize": 32,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#2A6F6F"
+    },
+    "title": {
+      "fontSize": 13,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#2E2E2E"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#5B5B5B"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#2E2E2E"
+    }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#E6E6E6" } },
+            "radius": 6
+          }
+        ],
+        "outline": [
+          { "show": false }
+        ],
+        "dropShadow": [
+          { "show": true, "preset": "0" }
+        ],
+        "visualHeader": [
+          {
+            "background": { "solid": { "color": "#FFFFFF" } },
+            "foreground": { "solid": { "color": "#2E2E2E" } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "categoryLabels": [
+          {
+            "color": { "solid": { "color": "#5B5B5B" } },
+            "fontSize": 11
+          }
+        ],
+        "labels": [
+          {
+            "color": { "solid": { "color": "#2A6F6F" } },
+            "fontSize": 28,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#F7F7F5" } } }
+        ],
+        "header": [
+          {
+            "fontColor": { "solid": { "color": "#2A6F6F" } },
+            "background": { "solid": { "color": "#F7F7F5" } },
+            "fontSize": 11,
+            "show": true
+          }
+        ],
+        "items": [
+          {
+            "fontColor": { "solid": { "color": "#2E2E2E" } },
+            "background": { "solid": { "color": "#FFFFFF" } }
+          }
+        ]
+      }
+    },
+    "barChart": {
+      "*": {
+        "categoryAxis": [
+          { "fontSize": 9, "color": "#5B5B5B" }
+        ],
+        "legend": [
+          { "fontSize": 9, "position": "Top" }
+        ]
+      }
+    },
+    "columnChart": {
+      "*": {}
+    },
+    "donutChart": {
+      "*": {
+        "legend": [
+          { "fontSize": 9, "position": "Right" }
+        ]
+      }
+    },
+    "scatterChart": {
+      "*": {}
+    },
+    "textbox": {
+      "*": {
+        "background": [
+          { "show": false }
+        ]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [
+          { "color": { "solid": { "color": "#FBFBFA" } }, "transparency": 0 }
+        ]
+      }
+    }
+  }
+}
