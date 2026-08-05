@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Ignorar datasets pesados
+cdmx_listings_powerbi.csv
+listings.csv
+*.csv
+*.gz
