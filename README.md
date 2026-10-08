@@ -32,7 +32,7 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 
 ### 1. Concentración del Mercado y Pricing por Zona
 * Las alcaldías con mayor volumen de oferta y precio promedio son **Cuauhtémoc, Miguel Hidalgo y Coyoacán**, representando el **70.45%** de la oferta total analizada.
-* El precio promedio por noche general en CDMX es de **$2,3200 MXN**, variando drásticamente desde **$1,320 MXN** para habitaciones privadas hasta **$2,750 MXN** para casas/departamentos enteros en zonas de alta gama (Polanco, Roma-Condesa).
+* El precio promedio por noche general en CDMX es de **$2,320 MXN**, variando drásticamente desde **$1,320 MXN** para habitaciones privadas hasta **$2,750 MXN** para casas/departamentos enteros en zonas de alta gama (Polanco, Roma-Condesa).
 
 ### 2. Dominio de Anfitriones Profesionales (Pregunta 2)
 * El **57.94%** de las propiedades pertenecen a anfitriones considerados **profesionales** (>3 propiedades), lo que refleja una creciente profesionalización en la gestión de inmuebles en la capital frente a un **42.06%** de anfitriones particulares.
