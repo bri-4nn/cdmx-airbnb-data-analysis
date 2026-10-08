@@ -38,7 +38,7 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 * El **57.94%** de las propiedades pertenecen a anfitriones considerados **profesionales** (>3 propiedades), lo que refleja una creciente profesionalización en la gestión de inmuebles en la capital frente a un **42.06%** de anfitriones particulares.
 
 ### 3. Validación de Hipótesis
-* **H1 (Rechazada):** Las propiedades con estancias mínimas de 1 a 2 noches mostraron una disponibilidad promedio de **263 días/año**, frente a **230 días/año** en aquellas que exigen 7+ noches. *Conclusión: Contrario a lo esperado, exigir estancias de 7+ noches incrementa la ocupación estimada en un 32.35%*
+* **H1 (Rechazada):** Las propiedades con estancias mínimas de 1 a 2 noches mostraron una disponibilidad promedio de **263 días/año**, frente a **230 días/año** en aquellas que exigen 7+ noches. *Conclusión: Contrario a lo esperado, exigir estancias de 7+ noches incrementa la ocupación estimada en un 32.35% (33 días adicionales al año)*
 * **H2 (Rechazada):** En las zonas de alta demanda, la puntuación de calificación no determina la tarifa por noche (Correlación $r = 0.0788$). La variación en el precio entre alojamientos con calificaciones medias y altas es de apenas < 2%, demostrando que el precio depende principalmente del tipo de inmueble y la ubicación geográfica.
 * **H3 (Aceptada):** Los *Superhosts* registran un precio promedio de **$2,516 MXN** vs **$2,146 MXN** de los anfitriones estándar, manteniendo una disponibilidad promedio idéntica (**263 días/año**), confirmando que la insignia genera un efecto de *premium pricing*.
 
@@ -56,7 +56,7 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 ---
 
 ## 🚀 Recomendaciones de Negocio
-1. **Flexibilidad en Estancias Mínimas:** Configurar requerimientos de estancia de máximo 2 noches para maximizar la ocupación durante fines de semana.
+1. **Flexibilidad en Estancias Mínimas:** Configurar requerimientos de estancia de +7 noches para maximizar la ocupación durante fines de semana.
 2. **Estrategia de Reputación:** Enfocar esfuerzos de servicio para alcanzar el estatus de *Superhost*, permitiendo capturar un margen adicional aproximado del **X%** en la tarifa nocturna.
 3. **Estrategia para Inversionistas:** Priorizar la adquisición de departamentos enteros en alcaldías con alta densidad de demanda y balancear el pricing mediante modelos dinámicos orientados a volumen de reseñas.
 
