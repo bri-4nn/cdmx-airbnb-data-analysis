@@ -19,8 +19,7 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 
 ### 🔍 Preguntas de Negocio
 1. **¿Cuál es el precio promedio por noche según la zona (alcaldía) y el tipo de alojamiento?**
-2. **¿Existe una correlación entre las reseñas recientes y el precio establecido por noche?**
-3. **¿Qué porcentaje de los anfitriones concentran más de 3 propiedades (hosts profesionales vs. particulares)?**
+2. **¿Qué porcentaje de los anfitriones concentran más de 3 propiedades (hosts profesionales vs. particulares)?**
 
 ### 🧪 Hipótesis Planteadas
 * **H1 (Estancias mínimas):** Los alojamientos con estancias mínimas largas (7+ noches) registran mayor disponibilidad anual (menor ocupación estimada) frente a los que permiten reservaciones de 1 a 2 noches.
@@ -35,7 +34,7 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 * Las alcaldías con mayor volumen de oferta y precio promedio son **Cuauhtémoc, Miguel Hidalgo y Coyoacán**, representando el **70.45%** de la oferta total analizada.
 * El precio promedio por noche general en CDMX es de **$2,3200 MXN**, variando drásticamente desde **$1,320 MXN** para habitaciones privadas hasta **$2,750 MXN** para casas/departamentos enteros en zonas de alta gama (Polanco, Roma-Condesa).
 
-### 2. Dominio de Anfitriones Profesionales (Pregunta 3)
+### 2. Dominio de Anfitriones Profesionales (Pregunta 2)
 * El **57.94%** de las propiedades pertenecen a anfitriones considerados **profesionales** (>3 propiedades), lo que refleja una creciente profesionalización en la gestión de inmuebles en la capital frente a un **42.06%** de anfitriones particulares.
 
 ### 3. Validación de Hipótesis
