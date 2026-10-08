@@ -57,7 +57,7 @@ El objetivo es proveer recomendaciones estratégicas a propietarios e inversioni
 
 ## 🚀 Recomendaciones de Negocio
 1. **Flexibilidad en Estancias Mínimas:** Configurar requerimientos de estancia de +7 noches para maximizar la ocupación durante fines de semana.
-2. **Estrategia de Reputación:** Enfocar esfuerzos de servicio para alcanzar el estatus de *Superhost*, permitiendo capturar un margen adicional aproximado del **X%** en la tarifa nocturna.
+2. **Estrategia de Reputación:** Enfocar esfuerzos de servicio para alcanzar el estatus de *Superhost*, permitiendo capturar un margen adicional aproximado del **17.24%** en la tarifa nocturna.
 3. **Estrategia para Inversionistas:** Priorizar la adquisición de departamentos enteros en alcaldías con alta densidad de demanda y balancear el pricing mediante modelos dinámicos orientados a volumen de reseñas.
 
 ---
